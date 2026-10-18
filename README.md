@@ -152,7 +152,7 @@ Interactive KPI dashboard built on the same Play Store dataset.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Swapnil1999-hey&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+  <img height="180" src="./github-stats.svg" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil1999-hey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
 </p>
 
@@ -165,7 +165,7 @@ Interactive KPI dashboard built on the same Play Store dataset.
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="./assets/activity-graph.svg" alt="Contribution activity graph" width="100%" />
+  <img src="./activity-graph.svg" alt="Contribution activity graph" width="100%" />
 </p>
 
 ### 🗓️ Commit Calendar
@@ -188,7 +188,7 @@ Interactive KPI dashboard built on the same Play Store dataset.
 ### 🏆 Highlights
 
 <p align="center">
-  <img src="./assets/highlights.svg" alt="GitHub highlights" width="100%" />
+  <img src="./highlights.svg" alt="GitHub highlights" width="100%" />
 </p>
 
 <!-- OPTIONAL: contribution snake. Enable only after adding .github/workflows/snake.yml

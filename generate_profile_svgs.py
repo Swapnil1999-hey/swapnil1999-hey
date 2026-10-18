@@ -28,7 +28,7 @@ query($login:String!, $from:DateTime!, $to:DateTime!){
   user(login:$login){
     name createdAt
     followers{ totalCount }
-    repositories(ownerAffiliation:OWNER, privacy:PUBLIC, isFork:false, first:100){
+    repositories(ownerAffiliations:[OWNER], privacy:PUBLIC, isFork:false, first:100){
       totalCount
       nodes{ stargazerCount }
     }
@@ -42,7 +42,7 @@ query($login:String!, $from:DateTime!, $to:DateTime!){
 }"""
 
 def fetch(login, token):
-    now = dt.datetime.utcnow().replace(microsecond=0)
+    now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0, tzinfo=None)
     frm = (now - dt.timedelta(days=364)).isoformat() + "Z"
     to = now.isoformat() + "Z"
     u = gql(BASE_Q, {"login": login, "from": frm, "to": to}, token)["user"]

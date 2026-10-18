@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swapnil1999-hey&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://hits.sh/github.com/Swapnil1999-hey.svg?style=flat-square&label=Profile%20Views&color=0e75b6" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Swapnil1999-hey?label=Followers&style=flat-square&logo=github&color=0e75b6" alt="followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSwapnil1999-hey&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&color=0e75b6" alt="public repos" />
 </p>
@@ -165,7 +165,7 @@ Interactive KPI dashboard built on the same Play Store dataset.
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swapnil1999-hey&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&custom_title=Contribution%20Activity%20Graph" alt="Contribution activity graph" width="100%" />
+  <img src="./assets/activity-graph.svg" alt="Contribution activity graph" width="100%" />
 </p>
 
 ### 🗓️ Commit Calendar
@@ -185,10 +185,10 @@ Interactive KPI dashboard built on the same Play Store dataset.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swapnil1999-hey&theme=tokyonight" alt="Stats" height="190" />
 </p>
 
-### 🏆 Trophies
+### 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swapnil1999-hey&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+  <img src="./assets/highlights.svg" alt="GitHub highlights" width="100%" />
 </p>
 
 <!-- OPTIONAL: contribution snake. Enable only after adding .github/workflows/snake.yml

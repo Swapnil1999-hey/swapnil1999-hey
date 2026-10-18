@@ -1,10 +1,16 @@
 <h1 align="center">Hi, I'm Swapnil Pathare 👋</h1>
 
-<h3 align="center">Data Analyst | Python • SQL • Power BI • Tableau</h3>
+<h3 align="center">Data Analyst • AI Engineer in the Making</h3>
 
 <p align="center">
-  Turning raw data into clear insights and decisions.<br>
-  B.Tech in AI & Data Science · Based in Nashik, Maharashtra, India 🇮🇳
+  <b>Generative AI</b> • LLMs • RAG • NLP • Machine Learning<br>
+  <b>Data Analytics</b> • Python • SQL • Power BI • Data Visualization<br>
+  <b>AI Engineering</b> • Custom LLM Pipelines • Intelligent Automation
+</p>
+
+<p align="center">
+  I enjoy combining AI engineering with analytics to solve real-world problems,<br>
+  and I love building AI-powered, data-driven applications.
 </p>
 
 <p align="center">
@@ -20,12 +26,44 @@
 
 ## 🧑‍💻 About Me
 
-- 📊 Data Analyst Trainee trained at **AlmaBetter** (Data Science & Agentic AI Engineering)
+- 📊 Data Analyst Trainee at **AlmaBetter** (Data Science & Agentic AI Engineering)
 - 🎓 B.Tech in **Artificial Intelligence & Data Science** (2025), earlier a Diploma in Mechanical Engineering
-- 🔍 I enjoy EDA, dashboards, and storytelling with data
-- 🤖 Exploring machine learning basics and AI-powered apps
+- 🤖 Building AI-powered applications with LLMs, RAG, and intelligent automation
+- 🔍 Turning raw data into insights through EDA, dashboards, and storytelling
 - 🎯 Looking for **Data Analyst, Business Analyst, BI Analyst, Junior Data Scientist** and Python roles
-- 🤝 Open to internships, entry-level roles, and collaborative analytics projects
+- 🤝 Open to internships, entry-level roles, and collaborative analytics / AI projects
+
+---
+
+## 🧠 What I Work With
+
+```text
+Generative AI
+├── Large Language Models (LLMs)
+├── Prompt Engineering
+├── RAG Systems
+├── Custom LLM Pipelines
+└── AI Application Development
+
+Data Analytics
+├── Python
+├── SQL
+├── Pandas
+├── Seaborn
+└── Power BI
+
+Machine Learning
+├── Scikit-Learn
+├── PyTorch
+├── Data Preprocessing
+├── Model Development
+└── Model Evaluation
+
+Engineering
+├── Git & GitHub
+├── PostgreSQL
+└── Python Development
+```
 
 ---
 
@@ -47,17 +85,28 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Backend & AI**
+**Machine Learning & AI**
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Backend & Tools**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
+- Generative AI & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- Advanced Data Analytics
 
 ---
 
@@ -97,7 +146,7 @@ Interactive KPI dashboard built on the same Play Store dataset.
 
 ## 📫 Let's Connect
 
-I'm always happy to chat about data, dashboards, or collaboration opportunities.
+I'm always happy to chat about data, AI, or collaboration opportunities.
 Reach me at **Pathares1999@gmail.com** or on LinkedIn.
 
 <p align="center">

@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/swapnil-pathare">
+  <a href="https://www.linkedin.com/in/swapnil-pathare">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Pathares1999@gmail.com">
